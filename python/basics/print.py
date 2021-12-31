@@ -31,9 +31,12 @@ list1.pop()
 print ("after pop")
 for i in list1:
     print(list1[i])
+    
+
 
 
 str = 'Hello World!'
+str = 'Hello World!1'
 
 print (str)          # Prints complete string
 print (str[0])       # Prints first character of the string
